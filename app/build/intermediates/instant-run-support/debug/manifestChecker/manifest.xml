@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yifei.mytimetable"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/logo_white_background"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity android:name="com.yifei.mytimetable.CourseActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.yifei.mytimetable.EmailActivity" />
+        <activity android:name="com.yifei.mytimetable.HelpActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.yifei.mytimetable.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

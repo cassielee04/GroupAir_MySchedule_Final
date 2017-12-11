@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/AlarmActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/AseAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/AseDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/AseInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/EmailActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/HelpActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/NotificationCouseInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/Schedule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yifei/mytimetable/TimeChoseDialog.java" charset="GBK" />
+  </component>
+</project>

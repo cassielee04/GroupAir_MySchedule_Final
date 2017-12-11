@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:3:7-38
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:6:5-16:19
+	android:label
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:6:65-97
+	android:icon
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:6:18-64
+activity#com.yifei.mytimetable.CourseActivity
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:7:9-12:20
+	android:name
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:7:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:8:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:10:27-74
+activity#com.yifei.mytimetable.EmailActivity
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:14:9-81
+	android:name
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:14:19-69
+activity#com.yifei.mytimetable.HelpActivity
+ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:15:6-77
+	android:name
+		ADDED from /Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/AndroidManifest.xml:15:16-65

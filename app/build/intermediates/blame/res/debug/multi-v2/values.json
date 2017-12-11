@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/leeseunghee/AndroidStudioProjects/Timetable/C:\\Users\\yifeih\\AndroidStudioProjects\\Timetable2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "/Users/leeseunghee/AndroidStudioProjects/Timetable/C:\\Users\\yifeih\\AndroidStudioProjects\\Timetable2\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "/Users/leeseunghee/AndroidStudioProjects/Timetable/C:\\Users\\yifeih\\AndroidStudioProjects\\Timetable2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "118,55",
+                        "endColumns": "48,62",
+                        "endOffsets": "162,113"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,248",
+                        "endColumns": "48,62",
+                        "endOffsets": "243,306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/leeseunghee/AndroidStudioProjects/Timetable/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "/Users/leeseunghee/AndroidStudioProjects/Timetable/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "118,55",
+                        "endColumns": "48,62",
+                        "endOffsets": "162,113"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,248",
+                        "endColumns": "48,62",
+                        "endOffsets": "243,306"
+                    }
+                }
+            ]
+        }
+    ]
+}
